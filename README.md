@@ -11,21 +11,19 @@ I mainly work with **Python, C, Linux, Git, networking, and web technologies** w
 - Computer Science fundamentals
 - Data Structures & Algorithms
 - Linux and systems programming
-- Networking and cybersecurity
-- DevOps and cloud fundamentals
 - Independent software projects
 
 ## selected repositories
 
-- [`learning-lab`](https://github.com/burakgerengi/learning-lab) — programming practice, experiments, and small projects
-- [`2B-remote-agent`](https://github.com/2B-Systems/2B-remote-agent) — systems and networking project
+- [`exif-batcher`](https://github.com/burakgerengi/exif-batcher) — privacy-first, cross-platform batch metadata sanitization tool
+- [`2B-remote-agent`](https://github.com/2B-Systems/2B-remote-agent) — experimental Windows telemetry system with a C client and asynchronous Python server
 
 ## websites i've built
 
 A selection of websites I've built and maintained through freelance and professional web development.
 
 - [Downwood Holidays](https://downwoodholidays.com) — website development, maintenance, performance, and technical improvements
-- [Dorset Nest](https://dorsetnest.com) — website development and custom web work
+- [dorsetnest.com](https://dorsetnest.com) — website development and custom web work
 - [İlk Deneyim Anaokulu](https://ilkdeneyimanaokulu.com.tr) — website built for a local kindergarten in Bartın
 
 ## contact
