@@ -1,4 +1,4 @@
-# Burak Yiğit Gerengi
+# burak gerengi
 
 Computer Engineering student at Bartın University, focused on software engineering, systems, networking, and cybersecurity.
 
